@@ -1,6 +1,6 @@
 { 
   "name": "KING-MD",
-  "description": "A Whatsapp md bot built By Naveed to make experience better",
+  "description": "A Whatsapp md bot built By Martin to make experience better",
   "logo": "https://telegra.ph/file/5541dfe4dc8c2f51e3f02.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "King-Two", "KING-MD", "KING","king-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "NAVEED DOGAR"
+      "value": "MARTIN SAJI"
   },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
